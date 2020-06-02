@@ -1,3 +1,2 @@
 # Data-Science-Portfolio
-A collection of projects I have completed to demonstrate my ability as a data scientist.
-The NLP and Titanic notebooks are Kaggle competitions I worked on, and are the best examples of my own work.
+My work on the Titanic survivial Kaggle competition. Both Python notebooks start with some data analysis before transitioning into a machine learning model to predict survival of a passenger given their credentials.
